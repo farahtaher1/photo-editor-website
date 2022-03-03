@@ -1,0 +1,25 @@
+
+
+  .column {
+    float: left;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  h1 {
+    text-align: center;
+    color:brown;
+  }
+
+
+  h2 {
+    text-align: center;color:blueviolet
+
+  }
+  h3 {
+    text-align: center;color:aqua
+  }
